@@ -11,6 +11,8 @@ Use:
 7. Verify that metrics are being ingested
   ![Alt text](<CleanShot 2024-01-20 at 02.43.35@2x.png>)
   ![Alt text](<CleanShot 2024-01-20 at 02.44.21@2x.png>)
-8. Add dashboard -> Import -> 1860 -> Load
+8. If metrics are not present add rules to NAS firewall (taht will give permissoin resolve domain name inside of the container)
+   ![Alt text](<CleanShot 2024-01-20 at 13.07.54@2x.png>)
+9.  Add dashboard -> Import -> 1860 -> Load
 
 
