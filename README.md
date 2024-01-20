@@ -15,4 +15,4 @@ Use:
    ![Alt text](<CleanShot 2024-01-20 at 13.07.54@2x.png>)
 9.  Add dashboard -> Import -> 1860 -> Load
 
-
+In docker-compose on line 23 specifiy what mount point should be exclude (sifered mount points appears to scrape, regular one not)
